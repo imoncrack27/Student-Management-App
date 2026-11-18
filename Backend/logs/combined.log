@@ -1,0 +1,17 @@
+{"level":"info","message":{"duration":"8ms","method":"GET","params":{},"path":"/health","query":{},"status":200},"timestamp":"2026-11-18T08:30:06.378Z"}
+{"level":"info","message":{"duration":"2ms","method":"GET","path":"/favicon.ico","query":{},"status":404},"timestamp":"2026-11-18T08:30:06.416Z"}
+{"level":"info","message":{"duration":"1ms","method":"GET","path":"/id","query":{},"status":404},"timestamp":"2026-11-18T08:30:14.405Z"}
+{"level":"info","message":{"duration":"1ms","method":"GET","path":"/students","query":{},"status":404},"timestamp":"2026-11-18T08:30:18.295Z"}
+{"level":"info","message":{"duration":"0ms","method":"GET","path":"/student","query":{},"status":404},"timestamp":"2026-11-18T08:30:20.982Z"}
+{"level":"info","message":{"duration":"1ms","method":"GET","path":"/","query":{},"status":404},"timestamp":"2026-11-18T08:30:23.942Z"}
+{"level":"info","message":{"duration":"2ms","method":"GET","params":{},"path":"/health","query":{},"status":200},"timestamp":"2026-11-18T08:30:26.632Z"}
+{"level":"info","message":{"duration":"1ms","method":"GET","path":"/","query":{},"status":404},"timestamp":"2026-11-18T08:30:28.960Z"}
+{"level":"info","message":{"duration":"8ms","method":"GET","path":"/","query":{},"status":404},"timestamp":"2026-11-18T08:31:40.799Z"}
+{"level":"info","message":{"duration":"1ms","method":"GET","path":"/","query":{},"status":404},"timestamp":"2026-11-18T08:31:41.097Z"}
+{"level":"info","message":{"duration":"0ms","method":"GET","path":"/health/detailed","query":{},"status":404},"timestamp":"2026-11-18T08:31:46.743Z"}
+{"level":"info","message":{"duration":"1ms","method":"GET","path":"/health/detail","query":{},"status":404},"timestamp":"2026-11-18T08:31:49.186Z"}
+{"level":"info","message":{"duration":"2ms","method":"GET","params":{},"path":"/health/details","query":{},"status":200},"timestamp":"2026-11-18T08:32:07.515Z"}
+{"level":"info","message":{"duration":"8ms","method":"GET","path":"/","query":{},"status":404},"timestamp":"2026-11-18T08:34:06.368Z"}
+{"level":"info","message":{"duration":"1ms","method":"GET","path":"/student-management-app","query":{},"status":404},"timestamp":"2026-11-18T08:34:15.054Z"}
+{"level":"info","message":{"duration":"7ms","method":"GET","params":{},"path":"/health/details","query":{},"status":200},"timestamp":"2026-11-18T08:37:50.344Z"}
+{"level":"info","message":{"duration":"2ms","method":"GET","params":{},"path":"/health","query":{},"status":200},"timestamp":"2026-11-18T08:38:04.189Z"}
